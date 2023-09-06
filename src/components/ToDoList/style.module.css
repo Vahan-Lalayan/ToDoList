@@ -1,0 +1,12 @@
+.container{
+    border:2px solid #673ab7;
+    padding: 20px;
+    width: 800px;
+    background: #673ab7;
+    color:white;
+}
+
+.parent{
+    display: flex;
+    flex-wrap: wrap;
+}
